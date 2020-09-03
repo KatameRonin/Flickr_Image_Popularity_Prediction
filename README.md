@@ -8,7 +8,7 @@
 
 [3] A. Ortis, G. M. Farinella and S. Battiato, “Predicting Social Image Popularity Dynamics at Time Zero” in IEEE Access.
 
-### Paper submitted during work : AmartyaDutta_POPULARITY2020
+### Paper submitted during work : AmartyaDutta_POPULARITY2020.pdf
 
 Results:
 
