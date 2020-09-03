@@ -7,3 +7,13 @@
 [2] Ortis, Alessandro, Giovanni Maria Farinella, and Sebastiano Battiato. "Prediction of Social Image Popularity Dynamics." International Conference on Image Analysis and Processing. Springer, Cham, 2019.
 
 [3] A. Ortis, G. M. Farinella and S. Battiato, “Predicting Social Image Popularity Dynamics at Time Zero” in IEEE Access.
+
+Results:
+
+-> Placed 3rd in the ICIP 2020, POPULARITY PREDICTION CHALLENGE
+Link to results:
+https://iplab.dmi.unict.it/popularitychallenge/leaderboard
+
+(Screen shot of results also added)
+
+
