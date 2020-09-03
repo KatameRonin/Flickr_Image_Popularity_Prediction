@@ -14,6 +14,7 @@ Results:
 Link to results:
 https://iplab.dmi.unict.it/popularitychallenge/leaderboard
 
-(Screen shot of results also added)
+![ICIP_results](https://user-images.githubusercontent.com/56846056/92125649-e19ed800-ee1c-11ea-871c-e1e37bbd6248.png)
+
 
 
