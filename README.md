@@ -10,9 +10,9 @@
 
 ### Paper submitted during work : AmartyaDutta_POPULARITY2020.pdf
 
-Results:
+### Results:
 
--> Placed 3rd in the ICIP 2020, POPULARITY PREDICTION CHALLENGE
+-> Placed 3rd in the Ineternation Conference on Image Processing (ICIP) 2020, POPULARITY PREDICTION CHALLENGE
 Link to results:
 https://iplab.dmi.unict.it/popularitychallenge/leaderboard
 
