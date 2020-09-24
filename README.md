@@ -4,6 +4,8 @@ Link to challenge: https://2020.ieeeicip.org/challenge/image-popularity-predicti
 
 Link to results of the ICIP 2020: https://2020.ieeeicip.org/challenge/#1600107636472-b22caa54-b9a8
 
+Training dataset now publicly availbale at: https://iplab.dmi.unict.it/popularitydataset/SIPD2020CHALLENGE/train/
+
 ## Work based mainly on these papers
 
 [1] Khosla, Aditya, Atish Das Sarma, and Raffay Hamid. "What makes an image popular?." Proceedings of the 23rd international conference on World wide web. ACM, 2014.
