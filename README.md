@@ -18,15 +18,7 @@ Training dataset now publicly availbale at: https://iplab.dmi.unict.it/popularit
 
 ### Paper submitted during work : AmartyaDutta_POPULARITY2020.pdf
 
-### Results:
 
--> Placed 3rd in the Ineternation Conference on Image Processing (ICIP) 2020, POPULARITY PREDICTION CHALLENGE
-Link to results:
-https://iplab.dmi.unict.it/popularitychallenge/leaderboard
-
-![ICIP_results](https://user-images.githubusercontent.com/56846056/92125649-e19ed800-ee1c-11ea-871c-e1e37bbd6248.png)
-
-![ICIP_results1png](https://user-images.githubusercontent.com/56846056/92125806-0abf6880-ee1d-11ea-9be9-07bb31f22922.png)
 
 
 
