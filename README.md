@@ -1,5 +1,7 @@
 # ICIP 2020: Image Popularity Prediction Challenge
 
+***NOTEBOOK YET TO BE CLEANED PROPERLY***
+
 Link to challenge: https://2020.ieeeicip.org/challenge/image-popularity-prediction-challenge/
 
 Link to results of the ICIP 2020: https://2020.ieeeicip.org/challenge/#1600107636472-b22caa54-b9a8
